@@ -1,0 +1,1012 @@
+[
+  {
+    "title": "The Effective Executive",
+    "author": "Peter F. Drucker",
+    "year": 1967,
+    "category": "Liderazgo",
+    "tags": [
+      "productividad",
+      "decisiones",
+      "gestion del tiempo",
+      "efectividad"
+    ],
+    "hook": "El padre del management moderno revela que la efectividad no es talento: es un habito que se aprende.",
+    "why": "Drucker destila decadas de observacion en cinco practicas concretas que todo lider puede dominar. Sigue siendo el manual de cabecera para gerentes que quieren convertir intencion en resultados.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "High Output Management",
+    "author": "Andrew S. Grove",
+    "year": 1983,
+    "category": "Liderazgo",
+    "tags": [
+      "productividad",
+      "equipos",
+      "procesos",
+      "metricas"
+    ],
+    "hook": "El CEO que construyo Intel te ensena a gestionar como un ingeniero: con palancas, no con buenos deseos.",
+    "why": "Grove convierte el management en una disciplina medible, con conceptos como las reuniones uno-a-uno y el output del equipo por encima del individual. Es lectura obligada en Silicon Valley por algo.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "year": 1989,
+    "category": "Liderazgo",
+    "tags": [
+      "habitos",
+      "liderazgo personal",
+      "proactividad",
+      "principios"
+    ],
+    "hook": "Antes de liderar a otros, tenes que liderarte a vos mismo: siete habitos que lo hacen posible.",
+    "why": "Covey ofrece un marco basado en principios que ha formado a generaciones de lideres. Equilibra el caracter personal con la efectividad interpersonal de forma atemporal.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Leaders Eat Last",
+    "author": "Simon Sinek",
+    "year": 2014,
+    "category": "Liderazgo",
+    "tags": [
+      "confianza",
+      "cultura",
+      "seguridad psicologica",
+      "servicio"
+    ],
+    "hook": "Los grandes lideres comen ultimos: la seguridad del equipo es la verdadera tarea del jefe.",
+    "why": "Sinek combina biologia, casos militares y empresariales para mostrar por que los equipos que se sienten seguros rinden mas. Cambia la manera de entender la autoridad.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Start With Why",
+    "author": "Simon Sinek",
+    "year": 2009,
+    "category": "Liderazgo",
+    "tags": [
+      "proposito",
+      "motivacion",
+      "vision",
+      "comunicacion"
+    ],
+    "hook": "La gente no compra lo que haces, compra por que lo haces: empeza por el porque.",
+    "why": "Sinek populariza el Circulo Dorado y demuestra como el proposito inspira lealtad y accion. Es esencial para lideres que quieren movilizar sin manipular.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "year": 2001,
+    "category": "Liderazgo",
+    "tags": [
+      "liderazgo nivel 5",
+      "cultura",
+      "disciplina",
+      "investigacion"
+    ],
+    "hook": "Por que algunas empresas dan el salto de buenas a extraordinarias y la mayoria no.",
+    "why": "Collins respalda con datos rigurosos conceptos como el Liderazgo Nivel 5 y el efecto volante. Es uno de los estudios mas influyentes sobre que hace grande a una organizacion.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "The Five Dysfunctions of a Team",
+    "author": "Patrick Lencioni",
+    "year": 2002,
+    "category": "Liderazgo",
+    "tags": [
+      "equipos",
+      "confianza",
+      "conflicto",
+      "compromiso"
+    ],
+    "hook": "Una fabula empresarial que desnuda las cinco trampas que destruyen a cualquier equipo.",
+    "why": "Lencioni explica en formato narrativo por que falla el trabajo en equipo, empezando por la ausencia de confianza. Es practico, memorable y aplicable de inmediato.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Dare to Lead",
+    "author": "Brene Brown",
+    "year": 2018,
+    "category": "Liderazgo",
+    "tags": [
+      "vulnerabilidad",
+      "coraje",
+      "empatia",
+      "cultura"
+    ],
+    "hook": "El coraje de liderar empieza por animarse a ser vulnerable frente al equipo.",
+    "why": "Brown traduce su investigacion sobre vulnerabilidad en herramientas concretas de liderazgo. Redefine la valentia como una competencia entrenable, no un rasgo innato.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "Drive: The Surprising Truth About What Motivates Us",
+    "author": "Daniel H. Pink",
+    "year": 2009,
+    "category": "Liderazgo",
+    "tags": [
+      "motivacion",
+      "autonomia",
+      "maestria",
+      "proposito"
+    ],
+    "hook": "El palo y la zanahoria estan muertos: la verdadera motivacion es autonomia, maestria y proposito.",
+    "why": "Pink sintetiza decadas de psicologia para mostrar que los incentivos tradicionales fallan en el trabajo creativo. Imprescindible para quien gestiona talento del conocimiento.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Multipliers: How the Best Leaders Make Everyone Smarter",
+    "author": "Liz Wiseman",
+    "year": 2010,
+    "category": "Liderazgo",
+    "tags": [
+      "talento",
+      "empoderamiento",
+      "inteligencia colectiva",
+      "liderazgo"
+    ],
+    "hook": "Hay jefes que multiplican la inteligencia del equipo y otros que la apagan: de cual sos vos.",
+    "why": "Wiseman distingue con evidencia entre lideres que amplifican capacidades y los que las drenan. Da practicas claras para extraer lo mejor de cada persona.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "Radical Candor",
+    "author": "Kim Scott",
+    "year": 2017,
+    "category": "Liderazgo",
+    "tags": [
+      "feedback",
+      "comunicacion",
+      "coaching",
+      "franqueza"
+    ],
+    "hook": "Cuida personalmente y desafia directamente: el arte de decir la verdad sin destruir la relacion.",
+    "why": "Scott, ex ejecutiva de Google y Apple, ofrece un marco practico para dar feedback honesto con empatia. Es de lo mejor que existe sobre conversaciones dificiles con el equipo.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "The Culture Code",
+    "author": "Daniel Coyle",
+    "year": 2018,
+    "category": "Liderazgo",
+    "tags": [
+      "cultura",
+      "pertenencia",
+      "confianza",
+      "equipos"
+    ],
+    "hook": "Las mejores culturas no se declaran: se construyen con senales de seguridad y pertenencia.",
+    "why": "Coyle analiza equipos de elite y revela las tres habilidades que generan culturas potentes. Lleno de historias y tacticas accionables para cualquier lider.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "The Hard Thing About Hard Things",
+    "author": "Ben Horowitz",
+    "year": 2014,
+    "category": "Liderazgo",
+    "tags": [
+      "decisiones",
+      "crisis",
+      "startups",
+      "liderazgo"
+    ],
+    "hook": "No hay receta para los momentos brutales de liderar: solo coraje honesto desde las trincheras.",
+    "why": "Horowitz comparte sin filtros las decisiones imposibles de dirigir una empresa en crisis. Es el contrapeso crudo y realista a los libros de management idealizados.",
+    "difficulty": "avanzado"
+  },
+  {
+    "title": "Turn the Ship Around!",
+    "author": "L. David Marquet",
+    "year": 2013,
+    "category": "Liderazgo",
+    "tags": [
+      "empoderamiento",
+      "liderazgo",
+      "autonomia",
+      "intencion"
+    ],
+    "hook": "Un capitan de submarino convierte seguidores en lideres dejando de dar ordenes.",
+    "why": "Marquet narra como transformo el peor submarino de la flota en el mejor cediendo control. Su modelo de liderazgo-liderazgo es revolucionario y muy aplicable.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "The First 90 Days",
+    "author": "Michael D. Watkins",
+    "year": 2003,
+    "category": "Liderazgo",
+    "tags": [
+      "transiciones",
+      "nuevos roles",
+      "estrategia",
+      "equipos"
+    ],
+    "hook": "Los primeros 90 dias en un cargo definen tu exito o tu fracaso: no los improvises.",
+    "why": "Watkins ofrece un plan estructurado para acelerar en cualquier nuevo rol de liderazgo. Es la referencia mundial para promociones, cambios de empresa y nuevos equipos.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "Team of Teams",
+    "author": "General Stanley McChrystal",
+    "year": 2015,
+    "category": "Liderazgo",
+    "tags": [
+      "adaptabilidad",
+      "equipos",
+      "descentralizacion",
+      "complejidad"
+    ],
+    "hook": "Para ganar en un mundo complejo hay que dejar de mandar y empezar a conectar equipos.",
+    "why": "McChrystal cuenta como rediseno una organizacion militar rigida en una red agil y adaptable. Es esencial para liderar en entornos de cambio rapido e incertidumbre.",
+    "difficulty": "avanzado"
+  },
+  {
+    "title": "The Coaching Habit",
+    "author": "Michael Bungay Stanier",
+    "year": 2016,
+    "category": "Liderazgo",
+    "tags": [
+      "coaching",
+      "preguntas",
+      "feedback",
+      "habitos"
+    ],
+    "hook": "Decir menos y preguntar mas: siete preguntas que te convierten en mejor lider-coach.",
+    "why": "Bungay Stanier ofrece una guia brevisima y practica para incorporar el coaching al dia a dia. Cambia tu rol de dar respuestas a desbloquear el potencial del equipo.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "No Rules Rules: Netflix and the Culture of Reinvention",
+    "author": "Reed Hastings",
+    "year": 2020,
+    "category": "Liderazgo",
+    "tags": [
+      "cultura",
+      "libertad",
+      "responsabilidad",
+      "talento"
+    ],
+    "hook": "Sin politicas ni controles: como Netflix construyo una cultura de libertad y alta exigencia.",
+    "why": "Hastings, junto a la academica Erin Meyer, revela los principios contraintuitivos detras de la cultura de Netflix. Provocador y util para repensar reglas, confianza y densidad de talento.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "SPIN Selling",
+    "author": "Neil Rackham",
+    "year": 1988,
+    "category": "Ventas",
+    "tags": [
+      "ventas consultivas",
+      "prospeccion",
+      "preguntas",
+      "B2B",
+      "investigacion"
+    ],
+    "hook": "El metodo de preguntas (Situacion, Problema, Implicacion, Necesidad) respaldado por 12 anos de investigacion en ventas complejas.",
+    "why": "Es el estudio empirico mas riguroso sobre que funciona en ventas grandes y demuele las tecnicas de cierre tradicionales. Base obligada para cualquier venta consultiva B2B.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "Influence: The Psychology of Persuasion",
+    "author": "Robert B. Cialdini",
+    "year": 1984,
+    "category": "Ventas",
+    "tags": [
+      "persuasion",
+      "psicologia",
+      "influencia",
+      "sesgos",
+      "etica"
+    ],
+    "hook": "Los seis principios universales que hacen que la gente diga que si: reciprocidad, compromiso, prueba social, autoridad, simpatia y escasez.",
+    "why": "Es el libro fundacional sobre la ciencia de la persuasion y casi todo lo posterior parte de aqui. Imprescindible para entender por que los clientes deciden.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Never Split the Difference",
+    "author": "Chris Voss",
+    "year": 2016,
+    "category": "Ventas",
+    "tags": [
+      "negociacion",
+      "empatia tactica",
+      "escucha",
+      "objeciones",
+      "cierre"
+    ],
+    "hook": "Las tacticas de negociacion de un exnegociador de rehenes del FBI aplicadas a los negocios.",
+    "why": "Aporta herramientas concretas y memorables (empatia tactica, etiquetado, preguntas calibradas) que se usan al dia siguiente. Excelente puente entre la calle y la mesa de ventas.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Getting to Yes",
+    "author": "Roger Fisher & William Ury",
+    "year": 1981,
+    "category": "Ventas",
+    "tags": [
+      "negociacion",
+      "intereses",
+      "BATNA",
+      "ganar-ganar",
+      "acuerdos"
+    ],
+    "hook": "El clasico de Harvard sobre negociar por intereses y no por posiciones para llegar a acuerdos que duren.",
+    "why": "Definio el marco de la negociacion moderna (separar persona del problema, BATNA) que es vocabulario obligado en B2B. Punto de partida teorico ineludible.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "The Challenger Sale",
+    "author": "Matthew Dixon & Brent Adamson",
+    "year": 2011,
+    "category": "Ventas",
+    "tags": [
+      "venta retadora",
+      "B2B",
+      "insight",
+      "reframe",
+      "ventas complejas"
+    ],
+    "hook": "En ventas complejas no gana el que construye relacion, sino el que ensena, adapta y toma el control con un insight.",
+    "why": "Cambio el paradigma del vendedor consultivo demostrando con datos del CEB que el perfil Challenger supera al resto. Lectura clave para ventas enterprise modernas.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "To Sell Is Human",
+    "author": "Daniel H. Pink",
+    "year": 2012,
+    "category": "Ventas",
+    "tags": [
+      "persuasion",
+      "mover",
+      "sintonia",
+      "claridad",
+      "ventas modernas"
+    ],
+    "hook": "Todos vivimos de vender algo, y la nueva venta se basa en sintonia, flotabilidad y claridad.",
+    "why": "Reencuadra que significa vender hoy con respaldo en ciencias del comportamiento y desmitifica al vendedor manipulador. Ideal para entender la venta no transaccional.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "The Psychology of Selling",
+    "author": "Brian Tracy",
+    "year": 2004,
+    "category": "Ventas",
+    "tags": [
+      "mentalidad",
+      "cierre",
+      "autoimagen",
+      "prospeccion",
+      "motivacion"
+    ],
+    "hook": "El 80% del exito en ventas es psicologia y mentalidad; el otro 20% es tecnica.",
+    "why": "Un manual practico y accesible sobre la cabeza del vendedor y los fundamentos del proceso de venta. Buen reseteo motivacional con tacticas concretas.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Fanatical Prospecting",
+    "author": "Jeb Blount",
+    "year": 2015,
+    "category": "Ventas",
+    "tags": [
+      "prospeccion",
+      "pipeline",
+      "llamadas en frio",
+      "cadencia",
+      "disciplina"
+    ],
+    "hook": "El pipeline se llena con prospeccion fanatica y constante, no con atajos magicos.",
+    "why": "Es el manual mas directo y completo sobre llenar el embudo combinando telefono, email y social. Cura el problema numero uno de la mayoria de los vendedores: el pipeline vacio.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "The Little Red Book of Selling",
+    "author": "Jeffrey Gitomer",
+    "year": 2004,
+    "category": "Ventas",
+    "tags": [
+      "ventas",
+      "actitud",
+      "valor",
+      "relaciones",
+      "cierre"
+    ],
+    "hook": "A la gente no le gusta que le vendan, pero le encanta comprar: 12,5 principios para que te compren.",
+    "why": "Pildoras practicas y directas sobre valor, actitud y relaciones de largo plazo. Lectura agil y memorable para uso diario en la calle.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "year": 1936,
+    "category": "Ventas",
+    "tags": [
+      "relaciones",
+      "persuasion",
+      "empatia",
+      "comunicacion",
+      "confianza"
+    ],
+    "hook": "El clasico atemporal sobre tratar con personas, ganar su confianza y llevarlas a tu forma de pensar.",
+    "why": "Casi un siglo despues sigue siendo la base de las habilidades blandas de cualquier vendedor. Fundamento de la construccion de relaciones comerciales.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Pre-Suasion",
+    "author": "Robert B. Cialdini",
+    "year": 2016,
+    "category": "Ventas",
+    "tags": [
+      "pre-suasion",
+      "atencion",
+      "encuadre",
+      "timing",
+      "influencia"
+    ],
+    "hook": "El momento previo al mensaje importa tanto como el mensaje: como preparar el terreno para el si.",
+    "why": "Complementa Influence mostrando que la persuasion empieza antes de hablar, con el encuadre y la atencion. Avanzado y revelador para vendedores experimentados.",
+    "difficulty": "avanzado"
+  },
+  {
+    "title": "The New Strategic Selling",
+    "author": "Robert B. Miller & Stephen E. Heiman",
+    "year": 2005,
+    "category": "Ventas",
+    "tags": [
+      "venta estrategica",
+      "ventas complejas",
+      "comprador",
+      "cuentas",
+      "mapa de poder"
+    ],
+    "hook": "El sistema Miller Heiman para mapear a todos los decisores en ventas complejas de multiples interlocutores.",
+    "why": "Aporta un proceso estructurado para gestionar ventas enterprise con varios influenciadores y compradores. Referencia para grandes cuentas y ciclos largos.",
+    "difficulty": "avanzado"
+  },
+  {
+    "title": "Bargaining for Advantage",
+    "author": "G. Richard Shell",
+    "year": 1999,
+    "category": "Ventas",
+    "tags": [
+      "negociacion",
+      "estilos",
+      "preparacion",
+      "tacticas",
+      "estrategia"
+    ],
+    "hook": "Un marco para negociar segun tu propio estilo, basado en investigacion de la Wharton School.",
+    "why": "Equilibra teoria academica y practica con foco en el autoconocimiento del negociador. Mas profundo y matizado que los manuales de tacticas sueltas.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "Negotiation Genius",
+    "author": "Deepak Malhotra & Max H. Bazerman",
+    "year": 2007,
+    "category": "Ventas",
+    "tags": [
+      "negociacion",
+      "racionalidad",
+      "sesgos",
+      "tacticas",
+      "Harvard"
+    ],
+    "hook": "De Harvard Business School: como superar obstaculos y cerrar grandes acuerdos en cualquier escenario.",
+    "why": "Combina rigor academico con casos reales para manejar negociaciones dificiles y contrapartes duras. Excelente para profundizar tras los clasicos.",
+    "difficulty": "avanzado"
+  },
+  {
+    "title": "Sell with a Story",
+    "author": "Paul Smith",
+    "year": 2016,
+    "category": "Ventas",
+    "tags": [
+      "storytelling",
+      "narrativa",
+      "conexion",
+      "persuasion",
+      "demos"
+    ],
+    "hook": "Las historias venden mejor que los datos: como estructurar relatos que conecten y convenzan.",
+    "why": "Ensena a usar el storytelling como herramienta estructurada de venta y manejo de objeciones. Diferencial practico en presentaciones y demos B2B.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Gap Selling",
+    "author": "Keenan",
+    "year": 2018,
+    "category": "Ventas",
+    "tags": [
+      "venta por brecha",
+      "diagnostico",
+      "problema",
+      "valor",
+      "descubrimiento"
+    ],
+    "hook": "Vende la brecha entre el estado actual y el estado deseado del cliente, no tu producto.",
+    "why": "Pone el diagnostico del problema en el centro y combate la venta centrada en features. Muy alineado con la venta consultiva B2B moderna.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "The JOLT Effect",
+    "author": "Matthew Dixon & Ted McKenna",
+    "year": 2022,
+    "category": "Ventas",
+    "tags": [
+      "indecision",
+      "cierre",
+      "no decision",
+      "ventas complejas",
+      "datos"
+    ],
+    "hook": "El verdadero enemigo de la venta no es el statu quo sino la indecision del cliente, y como desactivarla.",
+    "why": "Investigacion reciente sobre por que se pierden deals por no decision y como manejarla. Aborda un problema critico y poco tratado en ventas B2B.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "New Sales. Simplified.",
+    "author": "Mike Weinberg",
+    "year": 2012,
+    "category": "Ventas",
+    "tags": [
+      "nuevos negocios",
+      "prospeccion",
+      "propuesta de valor",
+      "llamadas",
+      "pipeline"
+    ],
+    "hook": "Un manual sin vueltas para conseguir clientes nuevos y reactivar la venta proactiva.",
+    "why": "Va directo a la captacion de cuentas nuevas, lo mas dificil y descuidado del oficio. Practico, con guiones y estructura de historia de ventas.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "The Lost Art of Closing",
+    "author": "Anthony Iannarino",
+    "year": 2017,
+    "category": "Ventas",
+    "tags": [
+      "cierre",
+      "compromisos",
+      "proceso",
+      "control",
+      "avance"
+    ],
+    "hook": "Cerrar no es un momento final sino una serie de diez compromisos a lo largo del proceso.",
+    "why": "Reformula el cierre como avances graduales que el vendedor debe pedir y ganar. Util para gestionar ciclos largos sin caer en la presion clasica.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "Secrets of Closing the Sale",
+    "author": "Zig Ziglar",
+    "year": 1984,
+    "category": "Ventas",
+    "tags": [
+      "cierre",
+      "persuasion",
+      "actitud",
+      "objeciones",
+      "clasico"
+    ],
+    "hook": "El clasico maestro sobre el arte del cierre y la persuasion con integridad.",
+    "why": "Un compendio de tecnicas de cierre y manejo de objeciones de uno de los grandes. Historico y motivacional, base de la cultura de ventas tradicional.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Built to Last",
+    "author": "Jim Collins & Jerry Porras",
+    "year": 1994,
+    "category": "Negocios y productividad",
+    "tags": [
+      "estrategia",
+      "cultura",
+      "vision",
+      "empresas"
+    ],
+    "hook": "Que tienen en comun las companias que prosperan durante generaciones.",
+    "why": "Explica como las empresas duraderas se construyen sobre proposito y valores centrales, no sobre un producto o un lider. Base conceptual para pensar la cultura y la vision de largo plazo.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "The Innovator's Dilemma",
+    "author": "Clayton M. Christensen",
+    "year": 1997,
+    "category": "Negocios y productividad",
+    "tags": [
+      "innovacion",
+      "disrupcion",
+      "estrategia",
+      "tecnologia"
+    ],
+    "hook": "Por que las grandes empresas bien gestionadas pueden fracasar justamente por hacer todo bien.",
+    "why": "Introduce la teoria de la innovacion disruptiva y explica como los lideres de mercado pierden frente a competidores mas simples y baratos. Lectura clave para anticipar amenazas competitivas.",
+    "difficulty": "avanzado"
+  },
+  {
+    "title": "Blue Ocean Strategy",
+    "author": "W. Chan Kim & Renee Mauborgne",
+    "year": 2005,
+    "category": "Negocios y productividad",
+    "tags": [
+      "estrategia",
+      "diferenciacion",
+      "mercados",
+      "competencia"
+    ],
+    "hook": "Deja de competir en mercados saturados y crea espacios de mercado sin rivales.",
+    "why": "Propone un marco practico para crear demanda nueva en lugar de pelear por la existente, con herramientas como el cuadro estrategico. Muy aplicable a diferenciacion y nuevos negocios.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "Competitive Strategy",
+    "author": "Michael E. Porter",
+    "year": 1980,
+    "category": "Negocios y productividad",
+    "tags": [
+      "estrategia",
+      "competencia",
+      "industria",
+      "analisis"
+    ],
+    "hook": "El marco clasico para analizar industrias y posicionarse para ganar.",
+    "why": "Texto fundacional de la estrategia moderna, con las cinco fuerzas y las estrategias genericas (costo, diferenciacion, enfoque). Imprescindible para cualquier analisis competitivo serio.",
+    "difficulty": "avanzado"
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "year": 2011,
+    "category": "Negocios y productividad",
+    "tags": [
+      "emprendimiento",
+      "startups",
+      "innovacion",
+      "experimentacion"
+    ],
+    "hook": "Construi, medi, aprende: como crear negocios bajo incertidumbre extrema.",
+    "why": "Sistematiza el metodo de producto minimo viable y aprendizaje validado para reducir el desperdicio al lanzar productos. Estandar de facto en el mundo emprendedor.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Zero to One",
+    "author": "Peter Thiel & Blake Masters",
+    "year": 2014,
+    "category": "Negocios y productividad",
+    "tags": [
+      "emprendimiento",
+      "startups",
+      "innovacion",
+      "monopolios"
+    ],
+    "hook": "Crear algo nuevo (de 0 a 1) vale mas que copiar lo que ya existe.",
+    "why": "Argumenta a favor de construir monopolios mediante tecnologia radicalmente nueva en vez de competir en mercados commoditizados. Provocador y denso en ideas contraintuitivas.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "Getting Things Done",
+    "author": "David Allen",
+    "year": 2001,
+    "category": "Negocios y productividad",
+    "tags": [
+      "productividad",
+      "organizacion",
+      "habitos",
+      "gestion del tiempo"
+    ],
+    "hook": "Saca todo de tu cabeza a un sistema confiable y libera tu mente para ejecutar.",
+    "why": "Presenta el metodo GTD para capturar, organizar y procesar compromisos sin estres. El sistema de productividad personal mas influyente de las ultimas decadas.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "year": 2016,
+    "category": "Negocios y productividad",
+    "tags": [
+      "productividad",
+      "concentracion",
+      "habitos",
+      "foco"
+    ],
+    "hook": "La capacidad de concentrarte sin distraccion es la superpotencia del siglo XXI.",
+    "why": "Defiende el trabajo profundo como ventaja competitiva escasa y da estrategias concretas para cultivarlo en un mundo de distracciones. Muy practico para conocimiento de alto valor.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Measure What Matters",
+    "author": "John Doerr",
+    "year": 2018,
+    "category": "Negocios y productividad",
+    "tags": [
+      "OKR",
+      "objetivos",
+      "metricas",
+      "ejecucion"
+    ],
+    "hook": "Las grandes ideas mueren sin ejecucion: los OKR son el sistema que las hace realidad.",
+    "why": "Doerr explica el metodo de objetivos y resultados clave que impulso a Google e Intel, con casos reales. Es la guia practica para alinear y enfocar equipos hacia lo que importa.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "year": 2020,
+    "category": "Negocios y productividad",
+    "tags": [
+      "finanzas personales",
+      "inversion",
+      "comportamiento",
+      "dinero"
+    ],
+    "hook": "Manejar bien el dinero depende mas del comportamiento que del conocimiento tecnico.",
+    "why": "Reune lecciones sobre ahorro, riesgo, paciencia e interes compuesto a traves de historias memorables. La mejor introduccion a la relacion emocional con el dinero.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "year": 1949,
+    "category": "Negocios y productividad",
+    "tags": [
+      "inversion",
+      "finanzas",
+      "valor",
+      "mercados"
+    ],
+    "hook": "La biblia del inversor en valor: margen de seguridad y temperamento sobre el mercado.",
+    "why": "El texto fundacional de la inversion en valor, mentor de Warren Buffett, ensena a invertir con disciplina ignorando al irracional Sr. Mercado. Denso pero insustituible.",
+    "difficulty": "avanzado"
+  },
+  {
+    "title": "Built to Sell",
+    "author": "John Warrillow",
+    "year": 2011,
+    "category": "Negocios y productividad",
+    "tags": [
+      "emprendimiento",
+      "escalabilidad",
+      "procesos",
+      "valor de empresa"
+    ],
+    "hook": "Construi un negocio que pueda prosperar y venderse sin vos en el centro de todo.",
+    "why": "En formato fabula, ensena a transformar una empresa dependiente del dueno en un activo escalable y vendible. Practico para emprendedores que quieren sistematizar y crecer.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "year": 2018,
+    "category": "Desarrollo personal",
+    "tags": [
+      "habitos",
+      "sistemas",
+      "mejora continua",
+      "productividad"
+    ],
+    "hook": "Pequenos cambios del 1% que se componen en resultados gigantes.",
+    "why": "El manual practico definitivo para construir buenos habitos y romper malos a traves del diseno de sistemas, no de la fuerza de voluntad. Accionable, claro y respaldado por ejemplos concretos.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "year": 2011,
+    "category": "Desarrollo personal",
+    "tags": [
+      "sesgos cognitivos",
+      "toma de decisiones",
+      "psicologia",
+      "economia conductual"
+    ],
+    "hook": "Dos sistemas mentales gobiernan como pensas, y uno te engana constantemente.",
+    "why": "Del premio Nobel que fundo la economia conductual; explica los sesgos cognitivos que distorsionan nuestras decisiones. Es la base intelectual de casi todo lo que se escribio despues sobre racionalidad.",
+    "difficulty": "avanzado"
+  },
+  {
+    "title": "Mindset: The New Psychology of Success",
+    "author": "Carol S. Dweck",
+    "year": 2006,
+    "category": "Desarrollo personal",
+    "tags": [
+      "mentalidad",
+      "aprendizaje",
+      "motivacion",
+      "psicologia"
+    ],
+    "hook": "Creer que podes crecer cambia literalmente cuanto crecés.",
+    "why": "Distingue entre mentalidad fija y de crecimiento con investigacion solida de Stanford. Transformo la manera de educar, liderar y enfrentar el fracaso.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "year": 1946,
+    "category": "Desarrollo personal",
+    "tags": [
+      "sentido",
+      "resiliencia",
+      "psicologia",
+      "filosofia"
+    ],
+    "hook": "Quien tiene un porque para vivir puede soportar casi cualquier como.",
+    "why": "Testimonio de un psiquiatra superviviente del Holocausto que funda la logoterapia: el sentido como motor de supervivencia. Profundo, breve y existencialmente imprescindible.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "Grit: The Power of Passion and Perseverance",
+    "author": "Angela Duckworth",
+    "year": 2016,
+    "category": "Desarrollo personal",
+    "tags": [
+      "perseverancia",
+      "pasion",
+      "motivacion",
+      "psicologia"
+    ],
+    "hook": "El talento importa, pero la perseverancia apasionada predice el exito.",
+    "why": "Investigacion rigurosa que muestra que la combinacion de pasion y constancia (grit) supera al talento puro. Cambia como pensamos sobre el logro a largo plazo.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Daring Greatly",
+    "author": "Brene Brown",
+    "year": 2012,
+    "category": "Desarrollo personal",
+    "tags": [
+      "vulnerabilidad",
+      "verguenza",
+      "autenticidad",
+      "psicologia"
+    ],
+    "hook": "Atreverse a ser vulnerable es el origen del coraje y la conexion.",
+    "why": "A partir de anos de investigacion sobre la verguenza, Brown reivindica la vulnerabilidad como fuerza, no debilidad. Esencial para la inteligencia emocional y las relaciones autenticas.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Flow: The Psychology of Optimal Experience",
+    "author": "Mihaly Csikszentmihalyi",
+    "year": 1990,
+    "category": "Desarrollo personal",
+    "tags": [
+      "flow",
+      "felicidad",
+      "concentracion",
+      "psicologia positiva"
+    ],
+    "hook": "La felicidad esta en absorberte por completo en lo que hacés.",
+    "why": "Define el estado de flujo, esa absorcion plena en una actividad desafiante, como clave del bienestar profundo. Pilar de la psicologia positiva con base cientifica solida.",
+    "difficulty": "avanzado"
+  },
+  {
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "year": 2012,
+    "category": "Desarrollo personal",
+    "tags": [
+      "habitos",
+      "neurociencia",
+      "cambio",
+      "rutinas"
+    ],
+    "hook": "Toda costumbre tiene un bucle de senal, rutina y recompensa que podes reprogramar.",
+    "why": "Explica con narrativa y ciencia como se forman y transforman los habitos en personas y organizaciones. Complemento ideal y mas teorico de los manuales practicos de habitos.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Nonviolent Communication",
+    "author": "Marshall B. Rosenberg",
+    "year": 2003,
+    "category": "Desarrollo personal",
+    "tags": [
+      "comunicacion",
+      "empatia",
+      "conflictos",
+      "relaciones"
+    ],
+    "hook": "Detras de cada reproche hay una necesidad esperando ser nombrada.",
+    "why": "Un metodo practico para comunicar sin juicio, conectar con necesidades y resolver conflictos con empatia. Transforma la manera de hablar en pareja, familia y trabajo.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "The Body Keeps the Score",
+    "author": "Bessel van der Kolk",
+    "year": 2014,
+    "category": "Desarrollo personal",
+    "tags": [
+      "trauma",
+      "cuerpo",
+      "salud mental",
+      "neurociencia"
+    ],
+    "hook": "El trauma no vive solo en la memoria: queda grabado en el cuerpo.",
+    "why": "Una obra fundamental sobre como el trauma afecta cerebro y cuerpo, y que caminos de sanacion existen. Referencia central para entender la salud mental moderna.",
+    "difficulty": "avanzado"
+  },
+  {
+    "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+    "author": "Susan Cain",
+    "year": 2012,
+    "category": "Desarrollo personal",
+    "tags": [
+      "introversion",
+      "personalidad",
+      "psicologia",
+      "autoconocimiento"
+    ],
+    "hook": "La introversion no es un defecto a corregir, sino una fortaleza a aprovechar.",
+    "why": "Reivindica con investigacion y narrativa el valor de los introvertidos en una cultura que premia la extroversion. Liberador para quien nunca se sintio representado por los manuales de exito.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "The Gifts of Imperfection",
+    "author": "Brene Brown",
+    "year": 2010,
+    "category": "Desarrollo personal",
+    "tags": [
+      "autocompasion",
+      "autenticidad",
+      "verguenza",
+      "bienestar"
+    ],
+    "hook": "Soltar quien crees que deberias ser para abrazar quien sos.",
+    "why": "Diez guias para vivir con autenticidad y dejar atras el perfeccionismo y la verguenza. Una entrada calida y practica al trabajo de autoaceptacion.",
+    "difficulty": "intro"
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "year": 180,
+    "category": "Desarrollo personal",
+    "tags": [
+      "estoicismo",
+      "filosofia",
+      "autodisciplina",
+      "resiliencia"
+    ],
+    "hook": "Apuntes intimos de un emperador para dominar la mente y aceptar lo inevitable.",
+    "why": "El texto estoico por excelencia, escrito como diario personal, sobre control interno, virtud y serenidad. Base milenaria de gran parte del desarrollo personal contemporaneo.",
+    "difficulty": "avanzado"
+  },
+  {
+    "title": "Emotional Intelligence",
+    "author": "Daniel Goleman",
+    "year": 1995,
+    "category": "Desarrollo personal",
+    "tags": [
+      "inteligencia emocional",
+      "emociones",
+      "autoconocimiento",
+      "relaciones"
+    ],
+    "hook": "Tu coeficiente emocional predice el exito mas que tu CI.",
+    "why": "Popularizo el concepto de inteligencia emocional y su impacto en la vida y el trabajo, integrando neurociencia y psicologia. Una referencia que redefinio que significa ser inteligente.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "Feeling Good: The New Mood Therapy",
+    "author": "David D. Burns",
+    "year": 1980,
+    "category": "Desarrollo personal",
+    "tags": [
+      "terapia cognitiva",
+      "depresion",
+      "pensamiento",
+      "salud mental"
+    ],
+    "hook": "Cambia los pensamientos distorsionados y cambiaras como te sentís.",
+    "why": "El manual clasico de terapia cognitivo-conductual aplicada a la depresion y la ansiedad, con tecnicas autoaplicables. Avalado por decadas de evidencia clinica.",
+    "difficulty": "intermedio"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "year": 2016,
+    "category": "Desarrollo personal",
+    "tags": [
+      "valores",
+      "mentalidad",
+      "aceptacion",
+      "minimalismo emocional"
+    ],
+    "hook": "La clave no es importarte todo, sino elegir bien que te importa.",
+    "why": "Un contrapunto irreverente a la autoayuda optimista: elegir conscientemente tus valores y aceptar lo que no podes controlar. Provocador, honesto y sorprendentemente practico.",
+    "difficulty": "intro"
+  }
+]

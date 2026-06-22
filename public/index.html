@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>Libro del día</title>
+  <meta name="description" content="Un libro resumido por día para tu aprendizaje diario." />
+  <link rel="manifest" href="/manifest.json" />
+  <meta name="theme-color" content="#6366f1" />
+  <!-- iOS PWA -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Libro del día" />
+  <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">📖</span>
+      <span>Libro del día</span>
+    </div>
+    <button id="navToggle" class="icon-btn" aria-label="Menú">⚙️</button>
+  </header>
+
+  <nav id="tabs" class="tabs">
+    <button class="tab active" data-view="hoy">Hoy</button>
+    <button class="tab" data-view="catalogo">Catálogo</button>
+    <button class="tab" data-view="historial">Historial</button>
+    <button class="tab" data-view="ajustes">Ajustes</button>
+  </nav>
+
+  <main id="app">
+    <!-- HOY -->
+    <section id="view-hoy" class="view active">
+      <div id="today-loading" class="loading">Cargando el libro de hoy…</div>
+      <article id="today-card" class="hidden"></article>
+    </section>
+
+    <!-- CATÁLOGO -->
+    <section id="view-catalogo" class="view">
+      <div class="filters" id="catalog-filters"></div>
+      <div id="catalog-list" class="card-grid"></div>
+    </section>
+
+    <!-- HISTORIAL -->
+    <section id="view-historial" class="view">
+      <h2 class="section-title">Lo que ya leíste</h2>
+      <div id="history-list" class="history"></div>
+    </section>
+
+    <!-- AJUSTES -->
+    <section id="view-ajustes" class="view">
+      <h2 class="section-title">Ajustes</h2>
+
+      <div class="setting-block">
+        <h3>Notificaciones</h3>
+        <p class="muted">Recibí el libro del día cada mañana en tu iPhone.</p>
+        <button id="btnPush" class="btn primary">Activar notificaciones</button>
+        <p id="pushStatus" class="status"></p>
+      </div>
+
+      <div class="setting-block">
+        <h3>Temáticas que te interesan</h3>
+        <p class="muted">Solo se recomiendan libros de las temáticas elegidas.</p>
+        <div id="pref-categories" class="chips"></div>
+        <button id="btnSavePrefs" class="btn">Guardar preferencias</button>
+        <p id="prefsStatus" class="status"></p>
+      </div>
+
+      <div class="setting-block">
+        <h3>Instalar en el iPhone</h3>
+        <p class="muted">En Safari: tocá <b>Compartir</b> → <b>Agregar a inicio</b>. Después abrila desde el ícono para que funcionen las notificaciones.</p>
+      </div>
+
+      <div class="setting-block">
+        <h3 id="statusTitle">Estado</h3>
+        <pre id="healthBox" class="health">…</pre>
+      </div>
+    </section>
+  </main>
+
+  <div id="detail-modal" class="modal hidden">
+    <div class="modal-card">
+      <button id="modalClose" class="icon-btn modal-close" aria-label="Cerrar">✕</button>
+      <div id="modal-content"></div>
+    </div>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

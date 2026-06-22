@@ -1,0 +1,28 @@
+# Blueprint de Render — https://render.com
+# Subí esta carpeta a un repo de GitHub y, en Render, elegí "New → Blueprint".
+# Render lee este archivo y crea el servicio web con todo configurado.
+services:
+  - type: web
+    name: libro-del-dia
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      # --- Secretos: los cargás en el panel de Render (no se versionan) ---
+      - key: ANTHROPIC_API_KEY      # tu key de console.anthropic.com (opcional pero recomendada)
+        sync: false
+      - key: VAPID_PUBLIC_KEY        # copiá el valor de tu .env local
+        sync: false
+      - key: VAPID_PRIVATE_KEY       # copiá el valor de tu .env local
+        sync: false
+      - key: CRON_SECRET             # inventá una clave larga; la usa el cron externo
+        sync: false
+      # --- Config con valores por defecto ---
+      - key: VAPID_SUBJECT
+        value: mailto:francog@gmail.com
+      - key: TZ_APP
+        value: America/Argentina/Buenos_Aires
+      - key: DAILY_CRON
+        value: 0 8 * * *
