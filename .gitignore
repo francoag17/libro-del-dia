@@ -5,3 +5,4 @@ data/app.db-shm
 data/app.db-wal
 *.log
 .DS_Store
+data/_*.json
