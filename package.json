@@ -11,7 +11,7 @@
     "seed": "node scripts/seed.js"
   },
   "engines": {
-    "node": ">=20"
+    "node": "22.x"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.65.0",
